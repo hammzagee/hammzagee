@@ -16,6 +16,11 @@
 
 ### Languages and Tools:
 <img align="left" alt="aws" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
+<img align="left" alt="atom" width="26px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />
+<img align="left" alt="django" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/7/75/Django_logo.svg" />
+<img align="left" alt="python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" />
+<img align="left" alt="ror" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/62/Ruby_On_Rails_Logo.svg" />
+<img align="left" alt="laravel" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
