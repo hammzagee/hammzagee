@@ -13,10 +13,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-### Get $100 for 60 days on digitalocean signup
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=ca90d2cc65a8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
 ### Languages and Tools:
 <img align="left" alt="aws" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" />
 <img align="left" alt="atom" width="26px" src="https://seeklogo.com/images/A/atom-logo-19BD90FF87-seeklogo.com.png" />
@@ -43,3 +39,7 @@
 [website]: https://hammza.com
 [instagram]: https://instagram.com/haaammmzzaaa
 [linkedin]: https://linkedin.com/in/haaammmzzaaa
+
+### Get $100 for 60 days on digitalocean signup
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=ca90d2cc65a8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+
