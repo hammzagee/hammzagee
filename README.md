@@ -38,7 +38,7 @@
 <br />
 
 [website]: https://hammza.com
-[instagram]: https://instagram.com/hammzaagee
+[instagram]: https://instagram.com/hammzagee
 [linkedin]: https://linkedin.com/in/haaammmzzaaa
 
 ### Get $100 for 60 days on digitalocean signup
