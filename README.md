@@ -3,7 +3,7 @@
 ## I'm a DevOps Engineer and a Full Stack Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Read more books
 - ⚡ Fun fact: I love to paint and take photos
 
 ### Connect with me:
