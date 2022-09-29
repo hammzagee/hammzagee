@@ -18,8 +18,10 @@
 [instagram]: https://instagram.com/hammzagee
 [linkedin]: https://linkedin.com/in/hammzagee
 
+## Certificates
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
 ### Get $100 for 60 days on digitalocean signup
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?
 refcode=ca90d2cc65a8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="6819af5c-5adb-480f-851f-e239fc900087" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
