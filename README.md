@@ -18,9 +18,5 @@
 [instagram]: https://instagram.com/hammzagee
 [linkedin]: https://linkedin.com/in/hammzagee
 
-## Certificates
-<!--START_SECTION:badges-->
-<!--END_SECTION:badges-->
-
 ### Get $100 for 60 days on digitalocean signup
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=ca90d2cc65a8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
