@@ -3,7 +3,7 @@
 ## I'm a DevOps Engineer | xFull Stack Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2022 Goals: Read more books
+- 🥅 2023 Goals: Read more books
 - ⚡ Fun fact: I love to paint and take photos
 
 ### Connect with me:
