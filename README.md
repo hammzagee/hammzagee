@@ -3,7 +3,7 @@
 ## I'm a DevOps Engineer | xFull Stack Developer
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2023 Goals: Read more books
+- 🥅 2024 Goals: Read more books
 - ⚡ Fun fact: I love to paint and take photos
 
 ### Connect with me:
@@ -18,5 +18,5 @@
 [instagram]: https://instagram.com/hammzagee
 [linkedin]: https://linkedin.com/in/hammzagee
 
-### Get $100 for 60 days on digitalocean signup
+### Get $100 for 60 days on digital ocean signup
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=ca90d2cc65a8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
