@@ -2,9 +2,13 @@
 ---
 ## I'm a DevOps Engineer | xFull Stack Developer
 
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2024 Goals: Read more books
-- ⚡ Fun fact: I love to paint and take photos
+- 📚 Extensive research and hands-on experience in cybersecurity
+- 🛡️ Actively protecting infrastructure from cyber attacks and mitigating incidents
+- 🌩️ Holder of 6 digital badges from AWS, demonstrating extensive cloud computing expertise
+- 🏗️ Skilled in architecting secure, scalable, and cost-effective cloud solutions
+- 📖 Enrolling for a Master's degree in Cybersecurity to further my expertise
+- 🔭 Passionate about exploring new technologies, especially within edge computing
+- 🌐 Cloudflare enthusiast, currently fascinated by their innovations in tech
 
 ### Connect with me:
 
