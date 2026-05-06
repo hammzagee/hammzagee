@@ -1,15 +1,19 @@
-### Hi there, I'm Ameer Hamza 👋
+# Ameer Hamza
+**DevOps Engineer · Cloud Architect · Cybersecurity Researcher**
+
 ---
-## I'm a DevOps Engineer | xFull Stack Developer
+> I build secure, scalable infrastructure — from serverless cloud architectures to edge computing systems — and actively research ways to protect them.
 
-- 📚 Extensive research and hands-on experience in cybersecurity
-- 🛡️ Actively protecting infrastructure from cyber attacks and mitigating incidents
-- 🌩️ Holder of 6 digital badges from AWS, demonstrating extensive cloud computing expertise
-- 🏗️ Skilled in architecting secure, scalable, and cost-effective cloud solutions
-- 📖 Enrolling for a Master's degree in Cybersecurity to further my expertise
-- 🔭 Passionate about exploring new technologies, especially within edge computing
-- 🌐 Cloudflare enthusiast, currently fascinated by their innovations in tech
+---
+### What I work on
+- **Cloud architecture** — designing serverless, cost-optimised, and HIPAA/GDPR-compliant systems on AWS and Cloudflare
+- **DevOps & infrastructure** — CI/CD pipelines, IaC, container orchestration, observability (CloudWatch, New Relic)
+- **Cybersecurity** — infrastructure hardening, MDM solutions, secure data exchange, threat mitigation
+- **Edge computing** — Cloudflare Workers, R2, D1; fascinated by where compute is heading at the edge
+---
 
-
-### Get $100 for 60 days on digital ocean signup
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%202.svg)](https://www.digitalocean.com/?refcode=ca90d2cc65a8&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+> B.S. Information Technology — University of the Punjab (QS 570) · Dean's Honour List 2016–2018
+> 
+> MSc Applied Cybersecurity (Erasmus+) · starting September 2026, Turkey
+---
+`hi@hammza.com`
